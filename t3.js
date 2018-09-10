@@ -1,0 +1,2 @@
+// master
+var a = someFunction();
