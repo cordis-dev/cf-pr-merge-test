@@ -1,1 +1,2 @@
-// m2
+// master
+var a = someFunction();
