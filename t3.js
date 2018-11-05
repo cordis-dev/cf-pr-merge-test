@@ -1,5 +1,5 @@
 // master v3
-// var a = someFunction();
+var a = someFunction();
 
 if (!!test)
 {
