@@ -1,5 +1,5 @@
 // v1
-if (!!v1_test)
+if (v1_test)
 {
   //
 }
