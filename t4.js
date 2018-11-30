@@ -4,8 +4,8 @@ if (v1_test)
   //
 }
 
-// v2
-if (v2_test)
+// v4
+if (!!v2_test)
 {
   //
 }
