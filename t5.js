@@ -1,9 +1,9 @@
-if (!!test)
+if (!!test1)
 {
 }
 
 // some new comment
 //
-if (!!test)
+if (!!test2)
 {
 }
